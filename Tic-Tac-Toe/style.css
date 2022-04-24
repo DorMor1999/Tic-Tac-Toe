@@ -1,0 +1,61 @@
+footer{
+    text-align: center;
+    min-width: 300px;
+}
+#linksFooter{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 120px;
+    height: 40px;
+}
+#board{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    min-width: 250px;
+}
+.board{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+#row1{
+    border-bottom: 5px solid black;
+}
+#row2{
+    border-bottom: 5px solid black;
+}
+.mid{
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+}
+.btn-outline-secondary{
+    width: 100%;
+    height: 100%;
+    border: 0px;
+}
+#board td{
+    width: 98.15px;
+    height: 98.15px;
+}
+span{
+    font-size: 60px;
+}
+#scoreBoard{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+#options{
+    width: 120px;
+    height: 40px;
+    margin-right: 15px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
